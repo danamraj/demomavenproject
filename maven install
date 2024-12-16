@@ -1,0 +1,179 @@
+52  mvn -v
+  453  mvn clean install
+  454  ls
+  455  cd demomavenproject
+  456  mvn
+  457  ls
+  458  cd src/
+  459  ls
+  460  cd main/
+  461  cd ../..
+  462  mvn clean install
+  463   mvn -x clean install
+  464   mvn -X clean install
+  465  mvn validater
+  466  mvn validate
+  467  mvn clean install
+  468  sudo reboot
+  469  cd
+  470  ls
+  471  cd demomavenproject
+  472  ls
+  473  cd src/
+  474  ls
+  475  cd main/
+  476  ls
+  477  cd java/
+  478  ls
+  479  cd
+  480  cd demomavenproject
+  481  ls
+  482  java --version
+  483  vim pox.xml
+  484  ls
+  485  mvn clean install
+  486  ls
+  487  vi pom.xml
+  488  mvn clean install
+  489  vi pom.xml
+  490  mvn clean install
+  491  java --version
+  492  vi pom.xml
+  493  mvn --version
+  494  mvn clean install
+  495  ls
+  496  cd target/
+  497  ls
+  498  cd ..
+  499  cd src/
+  500  ls
+  501  cd main/
+  502  ls
+  503  cd java/
+  504  ls
+  505  cd/demo/
+  506  cd demo/
+  507  ls
+  508  cd app.java/
+  509  cd App.java/
+  510  ls
+  511  vim App.java
+  512  cd ../..
+  513  ls
+  514  cd ../..
+  515  ls
+  516  cd target/
+  517  ls
+  518  java -jar APP.java-1.0-SNAPSHOT.jar
+  519  cd
+  520  cd my-java-app/
+  521  ls
+  522  cd demomavenproject/target/
+  523  ls
+  524  java -jar demomavenproject-1.0-SNAPSHOT.jar
+  525  jar -cv demomavenproject-1.0-SNAPSHOT.jar
+  526  cleae
+  527  clear
+  528  cd
+  529  ls
+  530  cd demomavenproject
+  531  ls
+  532  cd target/
+  533  ls
+  534  cd ..
+  535  ls
+  536  cd src/
+  537  ls
+  538  cd main/
+  539  l
+  540  ls
+  541  cd java/
+  542  ls
+  543  cd demo/
+  544  ls
+  545  vim App.java
+  546  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  547  java -cp demomavenproject-1.0-SNAPSHOT.jar demo
+  548  vim App.java
+  549  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  550  java -cp demomavenproject-1.0-SNAPSHOT.jardemo
+  551  cd ../..
+  552  ls
+  553  cd
+  554  ls
+  555  cd demomavanproject
+  556  cd demomavenproject
+  557  ls
+  558  cd target/
+  559  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  560  ls
+  561  cd
+  562  cd demomavenproject
+  563  ls
+  564  cd src/
+  565  ls
+  566  cd main/
+  567  ls
+  568  cd java/
+  569  ls
+  570  cd demo/
+  571  ls
+  572  vim App.java
+  573  cd ../..
+  574  cd ..
+  575  ls
+  576  cd ..
+  577  ls
+  578  cd target/
+  579  ls
+  580  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  581  cd ..
+  582  mvn clean
+  583  ls
+  584  mvn clean install
+  585  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  586  cd target/
+  587  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  588  ls
+  589  cd
+  590  cd demomavenproject
+  591  ls
+  592  cd src/
+  593  ls
+  594  cd main/
+  595  ls
+  596  cd java/
+  597  ls
+  598  cd demo/
+  599  ls
+  600  vim App.java/
+  601  vim App.java
+  602  cd
+  603  cd demomavenproject
+  604  ls
+  605  cd target/
+  606  ls
+  607  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  608  cd ..
+  609  mvn clean
+  610  mvn clean install
+  611  ls
+  612  cd target/
+  613  java -cp demomavenproject-1.0-SNAPSHOT.jar demo.App
+  614  cd ..
+  615  mvn clean
+  616  git init
+  617  git branch -m development
+  618  git branch
+  619  ls
+  620  git status
+  621  git add .
+  622  git commit -m "created a maven project"
+  623   git status
+  624  git status
+  625  git push origin development
+  626  git remote add origin git@github.com:danamraj/demomavenproject.git
+  627  git remote -v
+  628  git push origin development
+  629  history
+[danamrajsaikiran@vbox demomavenproject]$ ^C
