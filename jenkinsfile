@@ -10,7 +10,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Get some code from a GitHub repository
-                //git 'https://github.com/danamraj/demomavenproject.git'
+                git 'https://github.com/danamraj/demomavenproject.git'
 
                 //checkout to development branch
                 sh 'git checkout development'
