@@ -13,7 +13,7 @@ pipeline {
                 //git 'https://github.com/danamraj/demomavenproject.git'
 
                 //checkout to development branch
-                sh 'git checkout development'
+                //sh 'git checkout development'
                 // Run Maven on a Unix agent.
                 sh "mvn -Dmaven.test.failure.ignore=true clean package"
 
