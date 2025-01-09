@@ -1,5 +1,7 @@
 hello to all 
 good afternoon 
 today we are discussing about freestyle
+echo"helloworld"
+pwd-present working directory
 
 
