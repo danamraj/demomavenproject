@@ -1,0 +1,7 @@
+FROM openjdk:17
+WORKDIR /app
+COPY demomavenproject-1.0-SNAPSHOT.jar app.jar
+COPY src/ /app
+EXPOSE 8080
+CMD ["java", "-cp", "app.jar"]
+
